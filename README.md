@@ -43,6 +43,11 @@ A simple landing website built with Java Spring Boot, featuring a responsive fro
    ```
    git clone <repository-url>
    cd landing-website
+   sudo apt install default-jdk -y
+   java --version
+
+   sudo apt install maven -y
+   mvn --version
    ```
 
 2. Build and run the application using Maven:
